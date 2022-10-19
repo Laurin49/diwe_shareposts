@@ -3,7 +3,7 @@
     define('DB_HOST', 'localhost');
     define('DB_USER', 'Dirk');
     define('DB_PASS', 'Welter56');
-    define('DB_NAME', 'sharedposts');
+    define('DB_NAME', 'shareposts');
 
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
@@ -11,3 +11,5 @@
     define('URLROOT', 'http://localhost/shareposts');
     // Site Name
     define('SITENAME', 'SharePosts');
+    // App Version
+    define('APPVERSION', '1.0.0');
